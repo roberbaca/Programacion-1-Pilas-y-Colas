@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  juego.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Programacion 1 TP2\juego.cpp(8,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  personaje.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Programacion 1 TP2\personaje.cpp(47,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  puerta.cpp
+  enemigoPila.cpp
+  nodo.cpp
+  enemigoCola.cpp
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Programacion 1 TP2\enemigoCola.cpp(19,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Programacion 1 TP2\enemigoPila.cpp(202): warning C4715: 'enemigoPila::get_spritePila': not all control paths return a value
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Programacion 1 TP2\enemigoPila.cpp(212): warning C4715: 'enemigoPila::get_spritePila2': not all control paths return a value
+  Programacion 1 TP2.vcxproj -> C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Programacion 1 TP2\Programacion 1 TP2\Debug\Programacion 1 TP2.exe
